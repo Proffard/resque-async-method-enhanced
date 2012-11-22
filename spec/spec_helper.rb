@@ -7,7 +7,7 @@ require 'active_support/concern'
 require 'active_support/inflector'
 require 'active_support/dependencies/autoload'
 require 'resque-lock-timeout'
-require 'resque-async-method'
+require 'resque-async-method-enhanced'
 
 RSpec.configure do |config|
   config.mock_with :rspec

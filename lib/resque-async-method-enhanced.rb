@@ -1,4 +1,4 @@
-require 'resque-async-method/version'
+require 'resque-async-method-enhanced/version'
 require 'active_support/concern'
 require 'active_support/dependencies/autoload'
 
