@@ -1,6 +1,6 @@
 # Changelog  VERSION = '1.3.1'
 
-* Change name due to the reluctance of owner of gem, Nick Ragaz to integrate this improved version of his *beautiful* code, bullshit...
+* Change RubyGem name, because, despite the reluctance of Nick Ragaz, owner of this RubyGem, the community should not be deprived of the features added to his code.
 
 # Changelog  VERSION = '1.3'
 
