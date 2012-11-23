@@ -1,3 +1,7 @@
+# Changelog  VERSION = '1.3.2'
+
+* Add comment on Gemspec
+
 # Changelog  VERSION = '1.3.1'
 
 * Change RubyGem name, because, despite the reluctance of Nick Ragaz, owner of this RubyGem, the community should not be deprived of the features added to his code.
